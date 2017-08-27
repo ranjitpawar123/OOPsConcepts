@@ -1,0 +1,4 @@
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\StaticDemo\bin\Debug\StaticDemo.dll
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\StaticDemo\obj\Debug\StaticDemo.dll
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\StaticDemo\obj\Debug\StaticDemo.pdb

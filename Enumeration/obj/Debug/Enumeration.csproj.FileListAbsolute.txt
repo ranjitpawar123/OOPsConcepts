@@ -1,0 +1,4 @@
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Enumeration\obj\Debug\Enumeration.pdb

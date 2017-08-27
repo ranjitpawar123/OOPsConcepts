@@ -1,0 +1,5 @@
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\AbstractProject\bin\Debug\AbstractProject.exe.config
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\AbstractProject\bin\Debug\AbstractProject.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\AbstractProject\bin\Debug\AbstractProject.pdb
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\AbstractProject\obj\Debug\AbstractProject.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\AbstractProject\obj\Debug\AbstractProject.pdb

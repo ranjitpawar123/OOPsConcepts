@@ -1,0 +1,4 @@
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

@@ -1,0 +1,4 @@
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Destructor\bin\Debug\Destructor.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Destructor\bin\Debug\Destructor.pdb
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Destructor\obj\Debug\Destructor.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Destructor\obj\Debug\Destructor.pdb

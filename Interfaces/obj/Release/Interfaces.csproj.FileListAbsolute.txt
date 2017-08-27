@@ -1,0 +1,4 @@
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Interfaces\bin\Release\Interfaces.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Interfaces\obj\Release\Interfaces.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Interfaces\obj\Release\Interfaces.pdb

@@ -1,0 +1,4 @@
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\cpawarr2\Documents\Visual Studio 2015\Projects\AbstractProject\Inheritance\obj\Debug\Inheritance.pdb
