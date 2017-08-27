@@ -8,7 +8,7 @@ namespace StaticDemo
         int res;
         public void show()
         {
-            Console.WriteLine("Parent Show");
+            Console.WriteLine("Parent Show method");
             bool isTrue = int.TryParse(a, out res);
             Console.WriteLine(res);
         }
